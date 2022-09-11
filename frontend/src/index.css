@@ -28,26 +28,6 @@ header {
   justify-content: center;
 }
 
-.dsmeta-logo-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.dsmeta-logo-container img {
-  width: 235px;
-}
-
-.dsmeta-logo-container h1 {
-  margin-top: 15px;
-  font-size: 24px;
-}
-
-.dsmeta-logo-container p {
-  font-size: 14px;
-  font-weight: 300;
-}
-
 .dsmeta-card {
   background-color: #283142;
   border-radius: 10px;
@@ -117,11 +97,6 @@ header {
 
 .dsmeta-sales-table tbody tr:nth-child(odd) {
   background-color: #242c3b;
-}
-
-.dsmeta-red-btn-container {
-  display: flex;
-  justify-content: left;
 }
 
 .show576 {
