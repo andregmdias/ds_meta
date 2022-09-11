@@ -1,8 +1,8 @@
-
+import NotiifcationButton from "./components/NotiifcationButton";
 
 function App() {
     return(
-        <h1>Olá Mundo</h1>
+        <NotiifcationButton />
     )
 }
 
